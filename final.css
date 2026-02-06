@@ -1,3 +1,6 @@
+.page{
+    display:none;
+}
 #home:target{
     display:flex;
     border-radius: 50%;

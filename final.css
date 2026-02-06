@@ -1,0 +1,67 @@
+#home:target{
+    display:flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-content: center;
+}
+#achievements:target{
+    display:flex;
+}
+#hobbies:target{
+    display:flex;
+}
+#contacts:target{
+    display:flex;
+}
+table, th, td{
+    border:1px solid black;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+img{
+    display:flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    background-color: cornsilk;
+    color: white;
+    text-align: center;
+    margin-top:0px;
+    font-size:30px;
+}
+h1{
+    margin-bottom:0px;
+}
+div.photo{
+    position:absolute;
+}
+div.table{
+    position:absolute;
+    bottom: 1px;
+}
+h2{
+    position:absolute;
+    bottom:100px;
+}
+.heading{
+    position:absolute;
+    left:600px;
+    font-size:30px;
+}
+.list{
+    position:absolute;
+    top: 250px;
+    left:500px;
+    font-size:25px;
+}
+.achievement, .hobbies{
+    position:absolute;
+    top: 200px;
+    left:500px;
+    font-size:25px;
+}
+
